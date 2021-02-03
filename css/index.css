@@ -8,8 +8,16 @@
 
 }
 
+body{
+  overflow-x : hidden;
+}
+
 .text-mdp{
   color: var(--primary-color) !important;
+}
+
+.btn-block{
+  width: 100%;
 }
 
 .btn-platzi{
